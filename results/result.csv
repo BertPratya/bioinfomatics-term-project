@@ -520,3 +520,24 @@ log_transform+normalization+random_forest+early_stopping,T2D,True,0.159037846326
 log_transform+normalization+random_forest+early_stopping,T2D,True,0.2029516488313675,0.9966347217559814,68.4931506849315,0.7390977443609023,2024-11-10 19:50:59.256667,"500 trees, k = 3/4"
 log_transform+normalization+random_forest+early_stopping,T2D,True,0.18684108257293702,0.8025246858596802,68.4931506849315,0.7767441860465116,2024-11-10 19:51:05.077914,"500 trees, k = 3/4"
 log_transform+normalization+random_forest+early_stopping,T2D,True,0.1195806622505188,0.885452151298523,69.86301369863014,0.8123123123123123,2024-11-10 19:51:12.236283,"500 trees, k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.11663791909813881,0.43030115962028503,90.0,0.9523809523809524,2024-11-12 22:11:35.070105,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.23128190636634827,0.36845842003822327,90.0,0.875,2024-11-12 22:11:47.725632,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.4817972630262375,0.6030099987983704,70.0,0.9047619047619048,2024-11-12 22:12:00.549256,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.6874346733093262,0.6927201151847839,50.0,0.68,2024-11-12 22:12:12.975336,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.11663791909813881,0.43030115962028503,90.0,0.9523809523809524,2024-11-12 22:15:02.036443,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.23128190636634827,0.36845842003822327,90.0,0.875,2024-11-12 22:15:14.105813,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.4817972630262375,0.6030099987983704,70.0,0.9047619047619048,2024-11-12 22:15:26.266433,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.6874346733093262,0.6927201151847839,50.0,0.68,2024-11-12 22:15:38.598644,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+variance_threshold+normalization+random_forest,IBD,True,0.09346368536353111,0.09081824868917465,100.0,1.0,2024-11-12 22:15:51.505027,"varinace=0.2,500 trees,k = 3/4"
+10fold_log_transform+normalization,IBD,True,0.11663791909813881,0.43030115962028503,90.0,0.9523809523809524,2024-11-12 22:19:58.869190,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.23128190636634827,0.36845842003822327,90.0,0.875,2024-11-12 22:20:11.013066,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.4817972630262375,0.6030099987983704,70.0,0.9047619047619048,2024-11-12 22:20:23.343679,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.6874346733093262,0.6927201151847839,50.0,0.68,2024-11-12 22:20:35.202174,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.09346368536353111,0.09081824868917465,100.0,1.0,2024-11-12 22:20:47.367407,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.0689480658620596,0.07865086942911148,100.0,1.0,2024-11-12 22:24:30.093851,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.11663791909813881,0.43030115962028503,90.0,0.9523809523809524,2024-11-12 22:24:59.376351,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.11663791909813881,0.43030115962028503,90.0,0.9523809523809524,2024-11-12 22:26:00.627460,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.23128190636634827,0.36845842003822327,90.0,0.875,2024-11-12 22:26:13.274148,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.4817972630262375,0.6030099987983704,70.0,0.9047619047619048,2024-11-12 22:26:25.885304,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.6874346733093262,0.6927201151847839,50.0,0.68,2024-11-12 22:26:38.865047,10fold_log_transform+normalization
+10fold_log_transform+normalization,IBD,True,0.09346368536353111,0.09081824868917465,100.0,1.0,2024-11-12 22:26:51.045463,10fold_log_transform+normalization
